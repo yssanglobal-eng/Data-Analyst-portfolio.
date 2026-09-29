@@ -1,0 +1,23 @@
+PROJECT OVERVIEW
+
+Dataset:
+Instacart Market Basket Analysis
+
+Business problem:
+Analyze customer purchasing behavior
+to identify patterns regarding products, repurchases, and orders.
+
+Goal:
+Transform raw data into business insights.
+
+────────────────────────────
+
+TECH STACK
+
+☐ PostgreSQL
+☐ SQL
+☐ Python
+☐ Pandas
+☐ Power BI
+☐ Git
+☐ GitHub
