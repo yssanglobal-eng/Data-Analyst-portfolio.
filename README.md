@@ -1,6 +1,6 @@
 # Data-Analyst-portfolio.
 
-Data Analyst portfolio focusen on transforming raw data into actionable business insights. 
+Data Analyst portfolio focused on transforming raw data into actionable business insights. 
 
 ## Tech Stack 
 - SQL / PostgreQL
