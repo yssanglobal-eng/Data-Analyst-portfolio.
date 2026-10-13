@@ -1,0 +1,13 @@
+# Datasets originales de Instacart
+instacart-data-analysis/data/raw/
+
+# Entornos virtuales de Python
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuraciones locales
+.env
